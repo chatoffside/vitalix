@@ -35,6 +35,8 @@ curl -G http://localhost:3001/api/v1/projects
 
 ==> npm install webpack -g
 
+==> npm install -g webpack-cli
+
 ==> cd vitalix && npm install webpack --save-dev
 
 
@@ -42,4 +44,6 @@ curl -G http://localhost:3001/api/v1/projects
 
 ==> npm install webpack-dev-server --save-dev
 //------------------------------------------------------------------------------------------------------------------------------------
+https://thinkster.io/tutorials/build-a-real-world-react-redux-application
+
 //------------------------------------------------------------------------------------------------------------------------------------

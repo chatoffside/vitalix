@@ -1,6 +1,6 @@
 # Vitalix
 
-## Vitalix is the react-native app that consumes that API that is exposed by satoshi which is a fork of rndflo.io
+## Vitalix is a dapp built in react app (CRA) that consumes the API that is exposed by satoshi
 
 ## Links
 https://www.youtube.com/watch?v=NO2DaxhoWHk

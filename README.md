@@ -2,8 +2,10 @@
 
 ## Vitalix is the react-native app that consumes that API that is exposed by satoshi which is a fork of rndflo.io
 
-## Codemy
+## Links
+https://www.youtube.com/watch?v=NO2DaxhoWHk
 
+https://github.com/Remchi/bookworm-react
 
 
 //------------------------------------------------------------------------------------------------------------------------------------
@@ -45,5 +47,48 @@ curl -G http://localhost:3001/api/v1/projects
 ==> npm install webpack-dev-server --save-dev
 //------------------------------------------------------------------------------------------------------------------------------------
 https://thinkster.io/tutorials/build-a-real-world-react-redux-application
+
+//------------------------------------------------------------------------------------------------------------------------------------
+
+Inside that directory, you can run several commands:
+
+  yarn start
+    Starts the development server.
+
+  yarn build
+    Bundles the app into static files for production.
+
+  yarn test
+    Starts the test runner.
+
+  yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd vitalix
+  yarn start
+
+//------------------------------------------------------------------------------------------------------------------------------------
+
+==> create-react-app vitalix
+
+//------------------------------------------------------------------------------------------------------------------------------------
+
+  yarn add --dev eslint prettier eslint-config-airbnb@^15.0.1 eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y@^5.1.1
+
+
+# Update node to latest on mac
+
+  ==> node -v
+v9.7.1
+
+==> brew update
+
+==> brew upgrade node
+
+==> node -v
+v10.9.0
 
 //------------------------------------------------------------------------------------------------------------------------------------

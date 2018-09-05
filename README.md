@@ -76,8 +76,6 @@ We suggest that you begin by typing:
 
 //------------------------------------------------------------------------------------------------------------------------------------
 
-  yarn add --dev eslint prettier eslint-config-airbnb@^15.0.1 eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y@^5.1.1
-
 
 # Update node to latest on mac
 
@@ -90,5 +88,17 @@ v9.7.1
 
 ==> node -v
 v10.9.0
+
+//------------------------------------------------------------------------------------------------------------------------------------
+
+==> yarn add --dev eslint prettier eslint-config-airbnb@^15.0.1 eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y@^5.1.1
+
+==> npm i eslint-plugin-prettier@latest --save-dev
+
+yarn add eslint-loader --dev
+
+==> npm install --save-dev eslint-config-prettier
+
+==> npm install --save eslint-config-airbnb
 
 //------------------------------------------------------------------------------------------------------------------------------------
